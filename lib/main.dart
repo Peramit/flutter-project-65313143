@@ -50,28 +50,28 @@ class MyApp extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Expanded(child: Text("Elementary : Teerabunchorn School")),
-                  Text("year : 6"),
+                  Text("year : 2552"),
                 ],
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Expanded(child: Text("Primary : Teerabunchorn School")),
-                  Text("year : 6"),
+                  Text("year : 2558"),
                 ],
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Expanded(child: Text("High School : Banklang Phittayakhom School")),
-                  Text("year : 6"),
+                  Text("year : 2564"),
                 ],
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Expanded(child: Text("Undergrad : Naresuan University")),
-                  Text("year : 4"),
+                  Text("year : 2568"),
                 ],
               ),
             ],
